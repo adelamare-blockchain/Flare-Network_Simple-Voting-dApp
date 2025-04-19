@@ -212,8 +212,7 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for details.
   </p>
   <p>
     <a href="https://github.com/adelamare-blockchain"><img src="https://img.shields.io/badge/GitHub-adelamare--blockchain-181717?logo=github" alt="GitHub"></a>
-    <a href="https://x.com/blockchain_cie"><img src="https://img.shields.io/badge/X-Blockchain_Cie-0077B5?logo=X" alt="X/Twitter"></a>
+    <a href="https://x.com/blockchain_cie"><img src="https://img.shields.io/badge/X-Blockchain_Cie-181717?logo=X" alt="X/Twitter"></a>
     <a href="https://www.linkedin.com/in/adelamare-blockchain/"><img src="https://img.shields.io/badge/LinkedIn-Antoine_Delamare-0077B5?logo=linkedin" alt="LinkedIn"></a>
   </p>
 </div>
-```
