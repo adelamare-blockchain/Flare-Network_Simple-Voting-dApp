@@ -158,6 +158,14 @@ npx hardhat test
 npx hardhat coverage
 ```
 
+- **Transaction Verification**
+
+Need to verify if a transaction was successful
+
+1. **Solution**: Check the transaction on Flare's block explorer
+2. **Contract Address**: [0xa7869b9463b01a30C8Bc4AbCbaC15074B39735f0](https://coston2.testnet.flarescan.com/address/0xa7869b9463b01a30C8Bc4AbCbaC15074B39735f0)
+3. **Explorer**: [Coston2 Flarescan](https://coston2.testnet.flarescan.com/)
+
 ---
 
 ## 🔧 Configuration
