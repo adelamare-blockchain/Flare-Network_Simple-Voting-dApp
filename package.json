@@ -1,4 +1,11 @@
 {
+  "name": "flare-networks_dapp-simple-voting-dapp-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Simple Voting dApp Backend - Flare Dev Ambassador Program #1",
+  "main": "hardhat.config.js",
+  "author": "Antoine Delamare - https://github.com/adelamare-blockchain",
+  "license": "MIT",
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",
     "@nomicfoundation/hardhat-ethers": "^3.0.0",
